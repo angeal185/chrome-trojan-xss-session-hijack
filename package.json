@@ -1,0 +1,17 @@
+{
+  "name": "chrome-trojan-xss-session-hijack",
+  "version": "1.0.0",
+  "description": "chrome extension - xss session hijack trojan base",
+  "main": "app/js/background.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeal185/chrome-trojan-xss-session-hijack.git"
+  },
+  "keywords": [],
+  "author": "ben eaves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angeal185/chrome-trojan-xss-session-hijack/issues"
+  },
+  "homepage": "https://github.com/angeal185/chrome-trojan-xss-session-hijack#readme"
+}
